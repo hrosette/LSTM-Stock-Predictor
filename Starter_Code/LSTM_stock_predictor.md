@@ -1,7 +1,4 @@
-# UNIT 14 Homework: Deep Learning
-
-
-## LSTM Stock Predictor
+# LSTM Stock Predictor
 
 
 In this assignment, I built and evaluated deep learning models using both FNG values (a public sentiment indicator for cryptocurrencies) and closing prices to determine if the FNG indicator provides a better signal for cryptocurrencies than the normal closing price data.
