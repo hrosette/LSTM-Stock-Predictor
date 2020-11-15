@@ -25,3 +25,16 @@ The same parameters and training steps are used for each model. This is necessar
  * number_units = .2
 
 ## Evaluate the performance of each model
+
+**Key Findings:**
+
+* The closing price predictor model had a lower loss than the FNG pridictor model. A loss function is a measure of how good a prediction model does in terms of being able to predict the expected outcome.
+* The closing price predictor model tracks the actual values better over time.
+* The window size of 1 day works best for the model. As shown below:
+
+  FNG 10 day window loss = .1255 Closing 10 day window loss = .0067
+
+  FNG 1 day window loss = .093 Closing 1 day window loss = .00159
+
+  FNG 5 day window loss = .087 Closing 5 day window loss =.007
+
