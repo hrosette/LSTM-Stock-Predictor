@@ -32,9 +32,9 @@ The same parameters and training steps are used for each model. This is necessar
 * The closing price predictor model tracks the actual values better over time.
 * The window size of 1 day works best for the model. As shown below:
 
-  FNG 10 day window loss = .1255 Closing 10 day window loss = .0067
+    FNG 10 day window loss = .1255 Closing 10 day window loss = .0067
 
-  FNG 1 day window loss = .093 Closing 1 day window loss = .00159
+    FNG 1 day window loss = .093 Closing 1 day window loss = .00159
 
-  FNG 5 day window loss = .087 Closing 5 day window loss =.007
+    FNG 5 day window loss = .087 Closing 5 day window loss =.007
 
