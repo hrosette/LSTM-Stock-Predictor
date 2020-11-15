@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/65314799/99159913-fd3d1f00-26a6-11eb-973b-323d55a90fba.png)
+
+
 # LSTM Stock Predictor
 
 ## Background Information 
